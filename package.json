@@ -1,0 +1,17 @@
+{
+  "name": "YoutubeThumbnailUpdate",
+  "version": "1.0.0",
+  "description": "When someone leaves a comment on the video, their photo is saved as the video's thumbnail.",
+  "main": "start.js",
+  "dependencies": {
+    "googleapis": "^52.1.0",
+    "node-fetch": "^2.6.1",
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bryanmorganoverbey",
+  "license": "MIT"
+}
